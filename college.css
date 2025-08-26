@@ -70,8 +70,9 @@ footer{
     text-decoration: none;
     margin:0 10px;
 }
-.social links{
-    height:10px;
+.social-links img {
+    height: 24px;
+    width: 24px;
 }
 @media screen and (max-width:768px){
     header{
